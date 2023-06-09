@@ -1,4 +1,4 @@
-# Multivariate_Data_Analysis_2022_MAE0330_IME_USP
+# Multivariate Data Analysis 2022 (MAE0330 IME-USP)
 
 In MAE0330, an exciting undergraduate discipline at IME USP, I had the pleasure of diving into a rich toolbox of multivariate techniques! 🧰💡
 
