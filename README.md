@@ -6,7 +6,7 @@ In MAE0330, an exciting undergraduate discipline at IME USP, I had the pleasure 
 1. Cluster Analysis (Grade: 100/100)
 2. Principal Component Analysis (Grade: 90/100)
 3. Factor Analysis(Grade: 80/100)
-4. EM and Procrustes (Grade: 85/100)
+4. Multidimensional Scaling and Procrustes (Grade: 85/100)
 5. Correspondence Analysis (Grade: 60/100)
 6. Discriminant Analysis (Grade: 80/100)
 7. Multivariate Regression (Grade: 100/100)
