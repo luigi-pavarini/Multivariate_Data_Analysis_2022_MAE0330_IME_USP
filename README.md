@@ -14,4 +14,4 @@ In MAE0330, an exciting undergraduate discipline at IME USP, I had the pleasure 
 
 These techniques not only expanded my analytical horizons but also granted me the ability to uncover hidden patterns, unravel complex relationships, and make predictions from multivariate datasets. These skills are truly useful for holding on multivariate data analysis problems. 🚀✨
 
-This course was offer by Prof. [Lucia Pereira Barroso](https://bv.fapesp.br/pt/pesquisador/86916/lucia-pereira-barroso/)
+This course was offer by Prof. Lucia Pereira Barroso ([IME-USP](https://www.ime.usp.br/lbarroso/), [ResearchGate](https://www.researchgate.net/scientific-contributions/Lucia-Pereira-Barroso-2081592606), [FAPESP](https://bv.fapesp.br/pt/pesquisador/86916/lucia-pereira-barroso/))
